@@ -1,6 +1,9 @@
 package jpu2016.javapetri.dao;
 
 import jpu2016.javapetri.model.JavaPetri;
+//import jpu2016.javapetri.dao.*;
+//above maybe not
+
 
 //abstract because can't private at top level
 abstract class QueryJavaPetri {
